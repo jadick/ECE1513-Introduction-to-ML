@@ -1,1 +1,1 @@
-Introduction to ML Fall 2023
+ECE1513 - Introduction to Machine Learning - Fall 2023
